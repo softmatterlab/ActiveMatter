@@ -1,6 +1,6 @@
 # Phoretic and Self-phoretic Transport in Colloidal Science
 
-Ino Buttinoni
+Chapter Author: Ivo Buttinoni
 
 This directory contains the additional material for Chapter 8 (Phoretic and Self-phoretic Transport in Colloidal Science) of the book Active Matter: Theory, Simulation, and Experiments. <br />
 
