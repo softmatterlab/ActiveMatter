@@ -1,0 +1,13 @@
+.DS_Store
+*.aux
+*.log
+*.out
+*.gz
+*.toc
+*.blg
+*.fls
+*.fdb_latexmk
+*.nlo
+~$*
+*-eps-converted-to.pdf
+*.synctex*
