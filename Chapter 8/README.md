@@ -2,7 +2,7 @@
 
 Chapter Author: Ivo Buttinoni
 
-This directory contains the additional material for Chapter 8 (Phoretic and Self-phoretic Transport in Colloidal Science) of the book Active Matter: Theory, Simulation, and Experiments. <br />
+This directory contains the additional material for **Chapter 8** of the book **Active Matter: Theory, Simulation, and Experiments** (Editors: Giovanni Volpe, Nuno Araújo, Agnese Callegari, and Giorgio Volpe). <br />
 
 ### List of the available material ###
 
