@@ -1,15 +1,16 @@
-# Experiments with Artificial Active Particles
+# Optical Tweezers
 
-Chapter Authors: Chun Jen Chen, Felix Ginot
+Chapter Authors: David Bronte Ciriza, Maria Grazia Donato, Onofrio M. Maragò
 
-This directory contains the additional material for **Chapter 28** of the book **Active Matter: Theory, Simulation, and Experiments** (Editors: Giovanni Volpe, Nuno Araújo, Agnese Callegari, and Giorgio Volpe). <br />
+This directory contains the additional material for **Chapter 31** of the book **Active Matter: Theory, Simulation, and Experiments** (Editors: Giovanni Volpe, Nuno Araújo, Agnese Callegari, and Giorgio Volpe). <br />
 
 ### List of the available material ###
 
-- **ABP_detectEXP.m** : MATLAB function.
-- **cntrd2.m** : MATLAB function.
-- **pkfnd.m** : MATLAB function.
-- **track.m** : MATLAB function.
+#### Directory: Problem ####
+- **Exercise_AM_inOT.ipynb** : ipynb file.
+- **NN_400RaysSphere** : Directory used by Exercise_AM_inOT containing the DNN.
+
+#### Directory: Example ####
 
 - **ABP_Trajectories.md** : Contains link to *ABP_Trajectories.mat* (~15 MB)
 - **Drift_Trajectories.md** : Contains link to *Drift_Trajectories.mat* (~135 MB)
