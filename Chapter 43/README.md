@@ -2,7 +2,7 @@
 
 Chapter Authors: Laura Natali, Jesus Dominguez, Davide Breoni, Sandrine Heijnen, David Bronte Ciriza, Carolina van Baalen, Alireza Khoshzaban, Agnese Callegari
 
-This directory contains the additional material for **Chapter 28** of the book **Active Matter: Theory, Simulation, and Experiments** (Editors: Giovanni Volpe, Nuno Araújo, Agnese Callegari, and Giorgio Volpe). <br />
+This directory contains the additional material for **Chapter 43** of the book **Active Matter: Theory, Simulation, and Experiments** (Editors: Giovanni Volpe, Nuno Araújo, Agnese Callegari, and Giorgio Volpe). <br />
 
 ### List of the available material ###
 
