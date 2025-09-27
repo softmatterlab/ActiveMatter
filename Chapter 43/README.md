@@ -1,15 +1,21 @@
-# Experiments with Artificial Active Particles
+# Active Matter Game
 
-Chapter Authors: Chun Jen Chen, Felix Ginot
+Chapter Authors: Laura Natali, Jesus Dominguez, Davide Breoni, Sandrine Heijnen, David Bronte Ciriza, Carolina van Baalen, Alireza Khoshzaban, Agnese Callegari
 
 This directory contains the additional material for **Chapter 28** of the book **Active Matter: Theory, Simulation, and Experiments** (Editors: Giovanni Volpe, Nuno Araújo, Agnese Callegari, and Giorgio Volpe). <br />
 
 ### List of the available material ###
 
-- **ABP_detectEXP.m** : MATLAB function.
-- **cntrd2.m** : MATLAB function.
-- **pkfnd.m** : MATLAB function.
-- **track.m** : MATLAB function.
+- **AMG-Rules.pdf** : pdf file.
+- **board0.pdf** : pdf file.
+- **board1.pdf** : pdf file.
+- **board2.pdf** : pdf file.
+- **board3.pdf** : pdf file.
+- **board4.pdf** : pdf file.
+- **board5.pdf** : pdf file.
+- **bacteria.stl** : stl file.
+- **laser.pdf** : pdf file.
+- **tiles AM game.pdf** : pdf file.
 
 - **ABP_Trajectories.md** : Contains link to *ABP_Trajectories.mat* (~15 MB)
 - **Drift_Trajectories.md** : Contains link to *Drift_Trajectories.mat* (~135 MB)
