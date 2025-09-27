@@ -7,7 +7,7 @@ This directory contains the additional material for **Chapter 30** of the book *
 ### List of the available material ###
 
 - **Tutorial_GTT.md** : Contains link to *Tutorial_GTT.mp4* (~580 MB).
-- **Data_Contact_Angle.md** : Contains link to *DataPS.zip* (~30 MB).
+- **DataPS.md** : Contains link to *DataPS.zip* (~30 MB).
 
 - **Tutorial_PendantDrop.md** : Contains link to *Tutorial_PendantDrop.mp4* (~140 MB)
 - **Data_PD1.md** : Contains link to *Data_PD1.zip* (~160 MB)
